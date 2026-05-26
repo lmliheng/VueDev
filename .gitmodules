@@ -1,0 +1,12 @@
+[submodule "image_show"]
+	path = image_show
+	url = https://github.com/lmliheng/image_show
+[submodule "coding-words"]
+	path = coding-words
+	url = https://github.com/lmliheng/coding-words
+[submodule "MyVueCore"]
+	path = MyVueCore
+	url = https://github.com/lmliheng/MyVueCore
+[submodule "DoQ"]
+	path = DoQ
+	url = https://github.com/lmliheng/DoQ
